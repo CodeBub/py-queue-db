@@ -12,7 +12,7 @@ Py-queue-db 是一个开源项目，旨在提供一个类似 Kafka 的消息队�
 
 1. 克隆项目仓库：
     ```bash
-    git clone https://github.com/zhangheli/py-queue-db.git
+    git clone https://github.com/CodeBub/py-queue-db.git
     cd py-queue-db
     ```
 
